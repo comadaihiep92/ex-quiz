@@ -53,10 +53,15 @@ body {
     text-decoration: none;
     color: #006773;
 }
-.site-nav__item:hover .site-nav__link {
+.site-nav__link:hover {
     color: white;
     background: black;
 }
+/* .site-nav__link:active  {
+    color: blue;
+    background: red;
+} */
+
 /* banner */
 .banner {
     width: 100%;
